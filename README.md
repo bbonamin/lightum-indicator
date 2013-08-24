@@ -20,3 +20,8 @@ Official Ubuntu packages are available in [poliva/lightum-mba ppa](https://launc
      sudo apt-get update
      sudo apt-get install lightum-indicator
 
+## Installing from source
+(tested on Ubuntu 13.04)
+
+1. Clone the repository by running ```git clone https://github.com/poliva/lightum-indicator``` and ```cd``` into the project's directory.
+2. Run ```sudo make install```
